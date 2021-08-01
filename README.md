@@ -1,2 +1,2 @@
-# lander
-team lander
+# Team Lander
+Team Lander
