@@ -1,0 +1,7 @@
+VincentInfo.txt
+
+Name: Lawal Vincent Ayobami
+Email: vincentlawal21@gmail.com
+Language: R
+Biostack: Genomics
+Slack Username: Vincent
