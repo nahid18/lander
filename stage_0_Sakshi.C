@@ -4,6 +4,6 @@ int main(){
     printf("Email : sakshirawat3oct@gmail.com\n");
     printf("Language : C\n");
     printf("Biostack : Genomics\n");
-    printf("Slack Username :%cSakshi\n",64);
+    printf("Slack Username : @Sakshi\n");
     return 0;
 }
