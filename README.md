@@ -4,11 +4,11 @@ The github repository of **Team Lander** in the 2021 HackBio Internship Program.
 
 ## 🏁 Table of Contents
 <!-- markdownlint-disable -->
-  - [🧬 HackBio 2021](#hackbio-2021)
-  - [📙 Information Template](#information-template)
-  - [✅ Code Submitted](#code-submitted)
-  - [💻 Languages](#languages)
-  - [🔥 Contributors](#---contributors)
+  - [🧬 HackBio 2021](#-hackbio-2021)
+  - [📙 Information Template](#-information-template)
+  - [✅ Code Submitted](#-code-submitted)
+  - [💻 Languages](#-languages)
+  - [🔥 Contributors](#-contributors)
 
 
 ## 🧬 HackBio 2021
