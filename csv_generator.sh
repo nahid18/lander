@@ -7,6 +7,7 @@ ls *.c-program | parallel "./{} | awk -F ': ' ' {print \$2} ' | paste -sd ','  >
 ls *.cpp-program | parallel "./{} | awk -F ': ' ' {print \$2} ' | paste -sd ','  > {.}.csv";
 ls *.py | parallel "python3 {} | awk -F ': ' ' {print \$2} ' | paste -sd ','  > {.}.csv";
 ls *.R | parallel  "Rscript {} | awk -F ': ' ' {print \$2} ' | paste -sd ',' > {.}.csv";
+ls *.rb | parallel  "ruby {} | awk -F ': ' ' {print \$2} ' | paste -sd ',' > {.}.csv";
 
 cat *.csv >> team_lander.txt;
 rm -f *.c-program;
