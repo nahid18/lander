@@ -7,7 +7,7 @@ Name: <your-name-here>
 Email: <your-email-here>
 Language: <used-programming-language>
 Biostack: <your-hackbio-biostack>
-Slack Username: <your-hackbio-username>
+Slack Username: <hackbio-username>
 ```
 Example:
 ```markdown
