@@ -9,3 +9,12 @@ Md. Mahfuzur Rahman Bhuyan  |  mdmahfuzurrahmanbhuyan@gmail.com  |  Python    | 
 Modinaat Abayomi            |  modeenat@gmail.com                |  R         |  Drug Discovery   |  @Modinat
 Sakshi Rawat                |  sakshirawat3oct@gmail.com         |  C         |  Genomics         |  @Sakshi
 
+## Languages
+- [x] Python
+- [x] R
+- [x] C
+- [ ] C++
+- [ ] Julia
+- [ ] Ruby
+- [ ] Go 
+- [ ] Javascript
