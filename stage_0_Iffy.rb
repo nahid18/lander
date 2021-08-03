@@ -5,6 +5,5 @@ my_biostack="Biostack: Genomics and Data analysis"
 my_slackusername="Slack Username: @Iffy"
 puts my_name
 puts my_email
-puts my_language
-puts my_biostack
 puts my_slackusername
+puts my_biostack

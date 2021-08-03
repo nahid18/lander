@@ -1,5 +1,4 @@
 print("Name: Md. Mahfuzur Rahman Bhuyan")
 print("Email: mdmahfuzurrahmanbhuyan@gmail.com")
-print("Language: Python")
-print("Biostack: Genomics")
 print("Slack Username: @Mahfuz")
+print("Biostack: Genomics")

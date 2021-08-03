@@ -1,5 +1,4 @@
 cat("Name: Modinaat Abayomi\n")
 cat("Email: modeenat@gmail.com\n")
-cat("Language: R\n")
-cat("Biostack: Drug Discovery\n")
 cat("Slack Username: @Modinat\n")
+cat("Biostack: Drug Discovery\n")
