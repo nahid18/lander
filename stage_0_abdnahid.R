@@ -1,1 +1,0 @@
-cat("Name: Abdullah Al Nahid\nEmail: nahidpatwary1@gmail.com\nLanguage: R\nBiostack: Genomics\nSlack Username: @abdnahid\n")
