@@ -1,6 +1,22 @@
 # Team Lander
 The github repository of **Team Lander** in the 2021 HackBio Internship Program
 
+## Information Template
+```markdown
+Name: <your-name-here>
+Email: <your-email-here>
+Language: <used-programming-language>
+Biostack: <your-hackbio-biostack>
+Slack Username: <your-hackbio-username>
+```
+Example:
+```markdown
+Name: Abdullah Al Nahid
+Email: nahidpatwary1@gmail.com
+Language: C++
+Biostack: Genomics
+Slack Username: @abdnahid
+```
 ## Code Submitted
 Name                        |  Email                             |  Language  |  Biostack                    |  Slack
 ----------------------------|------------------------------------|------------|------------------------------|-----------
