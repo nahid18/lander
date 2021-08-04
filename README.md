@@ -26,13 +26,17 @@ Name: <your-name-here>
 Email: <your-email-here>
 Slack Username: <slack-username>
 Biostack: <your-hackbio-biostack>
+Twitter Handle: <your-twitter-handle>
+Hamming Distance: <hamming-distance>
 ```
 **Example:**
 ```markdown
 Name: Abdullah Al Nahid
 Email: nahidpatwary1@gmail.com
-Slack Username: @abdnahid
+Slack Username: @abdnahid_
 Biostack: Genomics
+Twitter Handle: @abdnahid_
+Hamming Distance: 0
 ```
 ## 🚀 Get Started
 1. Open a github account: https://github.com
