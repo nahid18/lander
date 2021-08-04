@@ -52,22 +52,18 @@ Hamming Distance: 0
 
 ## ✅ Code Submitted
 <!-- markdownlint-disable -->
-Name                        |  Email                             |  Slack      |  Biostack
-----------------------------|------------------------------------|-------------|----------------------------
-Abdullah Al Nahid           |  nahidpatwary1@gmail.com           |  @abdnahid  |  Genomics
-Akaniro Ifunanya            |  joiceiffy22@gmail.com             |  @Iffy      |  Genomics and Data analysis
-Md. Mahfuzur Rahman Bhuyan  |  mdmahfuzurrahmanbhuyan@gmail.com  |  @Mahfuz    |  Genomics
-Modinaat Abayomi            |  modeenat@gmail.com                |  @Modinat   |  Drug Discovery
-Sakshi Rawat                |  sakshirawat3oct@gmail.com         |  @Sakshi    |  Genomics
+Name               |  Email                    |  Slack       |  Biostack  |  Twitter     |  Hamming Distance
+-------------------|---------------------------|--------------|------------|--------------|------------------
+Abdullah Al Nahid  |  nahidpatwary1@gmail.com  |  @abdnahid_  |  Genomics  |  @abdnahid_  |  0
 
 
 ## 💻 Programming Languages
 <!-- markdownlint-disable -->
-- [x] Python 
-- [x] R
-- [x] C
+- [ ] Python 
+- [ ] R
+- [ ] C
 - [X] C++
-- [X] Ruby
+- [ ] Ruby
 - [ ] Julia
 - [ ] Go 
 - [ ] Javascript
