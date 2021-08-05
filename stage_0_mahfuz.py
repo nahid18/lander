@@ -17,7 +17,3 @@ print('Email :',email)
 print('Slack ID:',slackid)
 print('Twitter ID:',twitterid)
 print("Hamming Distance between Slack and Twitter:",hamming(slackid,twitterid))
-
-
-
-

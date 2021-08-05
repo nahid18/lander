@@ -10,8 +10,8 @@ int main(){
 
     printf("Name : Sakshi Rawat\n");
     printf("Email : sakshirawat3oct@gmail.com\n");
-    printf("Biostack : Genomics\n");
     printf("Slack : %s\n",slack);
+    printf("Biostack : Genomics\n");
     printf("Twitter : %s\n",twitter);
     printf("Hamming Distance : %d",hammingDistance(slack, twitter));
     return 0;
