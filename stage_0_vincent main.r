@@ -1,0 +1,8 @@
+Name=c("Lawal Vincent Ayobami")
+Email=c("vincentlawal21@gmail.com")
+Slack=c("@vincent")
+Biostack=c("Genomics")
+Twitter=c("@vincentayobami")
+Hamming_Distance=c("undefined")
+df=data.frame(Name, Email, Biostack, Twitter, Hamming_Distance)
+print(df)
