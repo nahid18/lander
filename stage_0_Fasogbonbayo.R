@@ -1,17 +1,15 @@
 # this is my first R script, kudos to HackBio
 
-print("My Mame: Fasogbon Ilemobayo Victor") # my surname is Fasogbon
+cat("My Name: Fasogbon Ilemobayo Victor\n") # my surname is Fasogbon
 
-print("My Email address: fasogbonilemobayo@gmail.com")
+cat("My Email address: fasogbonilemobayo@gmail.com\n")
 
-print("The Language I used: R")
+cat("My slack username: @Fasogbonbayo\n")
 
-print("My Biostack name: Genomics")
+cat("My Biostack name: Genomics\n")
 
-print("My slack username: @Fasogbonbayo")
+cat("Twitter Handle: @Fasogbonbayo\n")
 
-print("Twitter Handle: @Fasogbonbayo")
-
-print("Hamming Distance: 0")
+cat("Hamming Distance: 0\n")
 
 # I love team-lander
