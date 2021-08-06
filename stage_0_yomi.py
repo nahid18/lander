@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[58]:
-
-
 print('name: Giwa Abayomi')
 print('mail: abayomi.ag@gmail.com') 
 print('Slack username: @yomi')
@@ -20,8 +14,3 @@ twitter_handle={"@yom1"}
 result=hamming(slack_username,twitter_handle) * len(slack_username)
 
 print('Hamming distance between slack_username & twitter_handle :',result)
-
-
-
-
-

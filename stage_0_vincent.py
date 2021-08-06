@@ -1,21 +1,28 @@
 def hamming(slack,twitter):
-    result=0
+    result=("undefined")
     if len(slack)!=len(twitter):
         print("String are not equal")
     else:
-        for x,(i,j) in enumerate(zip(slack,twitter)):
-            if i!=j:
-                print(f'char not math{i,j}in {x}')
-                result+=1
+        pass
     return result
+
+def hammingdist (slack_username, twitter) :
+	i = 0
+	count =0
+	while (i < len (slack_username)):
+		if (slack_username [i] != twitter [i]) :
+			count +=1
+		i +=1
+	return count
+
 name="Lawal Vincent Ayobami"
 email="vincentlawal21@gmail.com"
-slackid="@vincent"
+slack="@vincent"
 Biostack="Genomics"
-twitterid="@vincentayobami"
+twitter="@vincentayobami"
 print('Name :',name)
 print('Email :',email)
-print('Slack ID:',slackid)
+print('Slack :',slack)
 print('Biostack :',Biostack)
-print('Twitter ID:',twitterid)
-print("Hamming Distance between Slack and Twitter:",hamming(slackid,twitterid))
+print('Twitter :',twitter)
+print("Hamming Distance between Slack and Twitter:",hamming(slack,twitter))
