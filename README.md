@@ -34,7 +34,7 @@ Detail: https://thehackbio.com/internship
 
 ## 🛡 Dependencies
 ```
-sudo apt-get -y install parallel r-base python3.6 g++ gcc ruby openjdk-8-jre openjdk-8-jdk-headless
+sudo apt-get -y install parallel r-base python3.6 g++ gcc perl ruby openjdk-8-jre openjdk-8-jdk-headless
 ```
 
 ## 💡 Installation
@@ -80,7 +80,7 @@ Name                         |  Biostack
 Abdullah Al Nahid            |  Genomics
 Fasogbon Ilemobayo Victor    |  Genomics
 Akaniro Ifunanya             |  Genomics and Data analysis
-Md. Mahfuzur Rahman Bhuyan   |  Python
+Md. Mahfuzur Rahman Bhuyan   |  Genomics
 Modinat Abayomi              |  Drug Discovery
 Sakshi Rawat                 |  Genomics
 Kazeem Oluwatobiloba Simeon  |  Genomics
@@ -97,7 +97,7 @@ Dina Saber Mohamed           |  Genomics & Bioinformatics
 - [X] C++
 - [X] Ruby
 - [X] Java
-- [ ] Perl
+- [X] Perl
 
 ## 🔥 Contributors
 <!-- markdownlint-disable -->
