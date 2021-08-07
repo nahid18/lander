@@ -1,37 +1,21 @@
 # Hello world,
 
-cat("My Mame: Fasogbon Ilemobayo Victor") # my surname is Fasogbon
+cat("My Name: Fasogbon Ilemobayo Victor\n") # my surname is Fasogbon
 
-cat("My Email address: fasogbonilemobayo@gmail.com")
+cat("My Email address: fasogbonilemobayo@gmail.com\n")
 
-cat("My slack username: @Fasogbonbayo")
+cat("My slack username: @Fasogbonbayo\n")
 
-cat("My Biostack name: Genomics")
+cat("My Biostack name: Genomics\n")
 
-cat("My Twitter Handle: @Fasogbonfash")
+cat("My Twitter Handle: @Fasogbonfash\n")
 
 # Calculating the hamming distance "My slack username: @Fasogbonbayo" and "My Twitter Handle: @Fasogbonfash"
 
 string1 <- "Fasogbonbayo"
 string2 <- "Fasogbonfash"
-count <- 0 # counter
 
-# Gets the number of characters in a string 
-# Also gets if both are equal
-# nchar counts the number of characters in a string.
-min_length = min(nchar(string2), nchar(string2))
-
-# converting strings to array of strings 
-# using the strsplit function
-string1_split = strsplit(string1, "")[[1]]
-
-string2_split = strsplit(string2, "")[[1]]
+count <- sum(string1 != string2)
 
 
-for (i in 1:min_length){
-	if (string1_split[i] != string2_split[i]){
-		count = count + 1}}
-
-cat(count)
-
-# I love team-lander
+cat(paste("Hamming Distance:",count,"\n"))

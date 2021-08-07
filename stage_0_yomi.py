@@ -4,13 +4,21 @@ print('Slack username: @yomi')
 print('Biostack: Data Analysis')
 print('twitter handle: @yom1')
 
-import scipy  
+def hammingDist(slack,twitter):
 
-from scipy.spatial.distance import hamming
+    distance = 0
 
-slack_username={"@yomi"}
-twitter_handle={"@yom1"}
+    L = len(slack)
+    for i in range(L):
 
-result=hamming(slack_username,twitter_handle) * len(slack_username)
+        if slack[i] != twitter[i]:
+            distance += 1
+
+    return distance
+
+slack_username="@yomi"
+twitter_handle="@yom1"
+
+result=hammingDist(slack=slack_username, twitter=twitter_handle)
 
 print('Hamming distance between slack_username & twitter_handle :',result)
