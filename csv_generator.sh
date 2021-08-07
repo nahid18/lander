@@ -1,6 +1,15 @@
 #!/bin/bash
 
-rm -f *.csv && echo "Name,Email,Slack,Biostack,Twitter,Hamming Distance" >> team_lander.txt;
+# need to be install
+sudo apt-get -y install r-base
+sudo apt-get -y install python3.6
+sudo apt-get -y install g++
+sudo apt-get -y install gcc
+sudo apt-get -y install ruby
+
+git clone https://github.com/nahid18/lander.git && cd lander;
+
+echo "Name,Email,Slack,Biostack,Twitter,Hamming Distance" >> team_lander.txt;
 ls *.C | parallel gcc -o {.}.c-program {};
 ls *.c-program | parallel "./{} | awk -F ': ' ' {print \$2} ' | paste -sd ','  > {.}.csv";
 ls *.cpp | parallel g++ -o {.}.cpp-program {};
