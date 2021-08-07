@@ -4,7 +4,7 @@ biostack= "Genomics"
 slack= "@tobibantu"
 twitter= "@tobibantu"
 
-print ("Name: ", name, "\n", "Email: ", email, "\n", "Slack: ", slack, "\n", "Biostack: ", biostack, "\n", "Twitter handle: ", twitter)
+print ("Name: "+ name+ "\n"+ "Email: "+ email+ "\n"+ "Slack: "+ slack+ "\n"+ "Biostack: "+ biostack+ "\n"+ "Twitter handle: "+ twitter)
 
 result=0
 if len(slack)!=len(twitter):

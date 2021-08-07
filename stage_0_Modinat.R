@@ -1,6 +1,0 @@
-cat("Name: Modinaat Abayomi\n")
-cat("Email: modeenat@gmail.com\n")
-cat("Slack Username: @Modinat\n")
-cat("Biostack: Drug Discovery\n")
-cat("Twitter Handle: @Modinat\n")
-cat("Hamming Distance: 0\n")
