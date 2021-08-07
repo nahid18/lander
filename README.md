@@ -75,18 +75,18 @@ Hamming Distance: 0
 
 ## ✅ Code Submitted
 <!-- markdownlint-disable -->
-Name                         |  Biostack
------------------------------|----------------------------
-Abdullah Al Nahid            |  Genomics
-Fasogbon Ilemobayo Victor    |  Genomics
-Akaniro Ifunanya             |  Genomics and Data analysis
-Md. Mahfuzur Rahman Bhuyan   |  Genomics
-Modinat Abayomi              |  Drug Discovery
-Sakshi Rawat                 |  Genomics
-Kazeem Oluwatobiloba Simeon  |  Genomics
-Lawal Vincent Ayobami        |  Genomics
-Giwa Abayomi                 |  Data Analysis
-Dina Saber Mohamed           |  Genomics & Bioinformatics
+Name                         |  Biostack                    |  Programming Language
+-----------------------------|------------------------------|----------------------
+Abdullah Al Nahid            |  Genomics                    |  C++
+Fasogbon Ilemobayo Victor    |  Genomics                    |  R
+Akaniro Ifunanya             |  Genomics and Data analysis  |  Ruby
+Md. Mahfuzur Rahman Bhuyan   |  Genomics                    |  Perl
+Modinat Abayomi              |  Drug Discovery              |  R
+Sakshi Rawat                 |  Genomics                    |  C
+Kazeem Oluwatobiloba Simeon  |  Genomics                    |  Python
+Lawal Vincent Ayobami        |  Genomics                    |  Java
+Giwa Abayomi                 |  Data Analysis               |  Python
+Dina Saber Mohamed           |  Genomics & Bioinformatics   |  Python
 
 
 ## 💻 Programming Languages

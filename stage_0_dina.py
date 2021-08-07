@@ -1,6 +1,6 @@
 print("Name: Dina Saber Mohamed")
 print("Email: d.saber99@gmail.com")
-print("Biostack: Genomics & Bioinformatics")
 print("Slack Username: @Dina")
+print("Biostack: Genomics & Bioinformatics")
 print("Twitter Handle: @DinaSaber14")
 print("Hamming Distance: 7")
