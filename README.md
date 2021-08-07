@@ -18,6 +18,20 @@ The github repository of **Team Lander** in the 2021 HackBio Internship Program.
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
 Detail: https://thehackbio.com/internship
 
+## Dependencies
+```
+# install R
+sudo apt-get -y install r-base
+# install Python
+sudo apt-get -y install python3.6
+# install G++
+sudo apt-get -y install g++
+# install GCC
+sudo apt-get -y install gcc
+# install Ruby
+sudo apt-get -y install ruby
+```
+
 ## 📙 Information Template
 <!-- markdownlint-disable -->
 ```markdown
@@ -62,6 +76,7 @@ Sakshi Rawat                 |  Genomics
 Kazeem Oluwatobiloba Simeon  |  Genomics
 Lawal Vincent Ayobami        |  Genomics
 Giwa Abayomi                 |  Data Analysis
+Dina Saber Mohamed           |  Genomics & Bioinformatics
 
 
 ## 💻 Programming Languages
