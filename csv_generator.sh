@@ -21,6 +21,6 @@ rm -f *.c-program;
 rm -f *.cpp-program;
 rm -f *.csv;
 mv team_lander.txt team_lander.csv && rm -f *.txt;
-rm -rf lander;
+mv *.csv ../ && rm -rf lander;
 
 echo "Thank you, HackBio 2021!";
