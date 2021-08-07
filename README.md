@@ -39,7 +39,7 @@ sudo apt-get -y install parallel r-base python3.6 g++ gcc ruby julia
 
 ## 💡 Installation
 ```
-wget https://github.com/nahid18/lander/blob/main/csv_generator.sh && bash csv_generator.sh
+wget https://raw.githubusercontent.com/nahid18/lander/main/csv_generator.sh && bash csv_generator.sh
 ```
 
 ## 📙 Information Template
