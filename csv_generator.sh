@@ -1,7 +1,12 @@
 #!/bin/bash
 
+# install packages
+sudo apt-get install -y parallel r-base python3.6 g++ gcc ruby
+
+# clone repository
 git clone https://github.com/nahid18/lander.git && cd lander;
 
+# produceing CSV
 echo "Name,Email,Slack,Biostack,Twitter,Hamming Distance" >> team_lander.txt;
 ls *.C | parallel gcc -o {.}.c-program {};
 ls *.c-program | parallel "./{} | awk -F ': ' ' {print \$2} ' | paste -sd ','  > {.}.csv";

@@ -20,6 +20,8 @@ Detail: https://thehackbio.com/internship
 
 ## Dependencies
 ```
+# install Parallel
+sudo apt-get install parallel 
 # install R
 sudo apt-get -y install r-base
 # install Python
