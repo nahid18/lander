@@ -3,7 +3,7 @@
 echo "Installing Dependencies for Team Lander";
 # sudo apt-get install -y parallel r-base python3.6 g++ gcc ruby;
 
-echo "Cloning Team Lander epository";
+echo "Cloning Team Lander Repository";
 git clone "https://github.com/nahid18/lander.git" && cd lander;
 echo "Producing CSV for Team Lander";
 
@@ -21,5 +21,6 @@ rm -f *.c-program;
 rm -f *.cpp-program;
 rm -f *.csv;
 mv team_lander.txt team_lander.csv && rm -f *.txt;
+rm -rf lander/*;
 
 echo "Thank you, HackBio 2021!";
