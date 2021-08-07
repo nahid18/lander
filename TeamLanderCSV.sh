@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "We are Team Lander";
 echo "Installing Dependencies for Team Lander";
 
 sudo apt-get install -y parallel r-base python3.6 g++ gcc ruby;
