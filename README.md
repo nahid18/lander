@@ -34,7 +34,7 @@ Detail: https://thehackbio.com/internship
 
 ## 🛡 Dependencies
 ```
-sudo apt-get -y install parallel r-base python3.6 g++ gcc ruby julia
+sudo apt-get -y install parallel r-base python3.6 g++ gcc ruby openjdk-8-jre openjdk-8-jdk-headless
 ```
 
 ## 💡 Installation
@@ -96,9 +96,8 @@ Dina Saber Mohamed           |  Genomics & Bioinformatics
 - [X] C
 - [X] C++
 - [X] Ruby
-- [ ] Julia
-- [ ] Go 
-- [ ] Javascript
+- [X] Java
+- [ ] Perl
 
 ## 🔥 Contributors
 <!-- markdownlint-disable -->
