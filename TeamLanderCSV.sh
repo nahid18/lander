@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing Dependencies for Team Lander";
-# sudo apt-get install -y parallel r-base python3.6 g++ gcc ruby;
+sudo apt-get install -y parallel r-base python3.6 g++ gcc ruby;
 
 echo "Cloning Team Lander Repository";
 git clone "https://github.com/nahid18/lander.git" && cd lander;
