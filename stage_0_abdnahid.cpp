@@ -32,6 +32,7 @@ int main()
                     "Biostack: " + biostack + delim +
                     "Twitter Handle: " + twitter + delim + 
                     "Hamming Distance: " + std::to_string(distance) + delim;
+    
     cout << output;
     return 0;
 }
