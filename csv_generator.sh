@@ -22,7 +22,7 @@ rm -f *.cpp-program;
 rm -f *.csv;
 mv team_lander.txt team_lander.csv && rm -f *.txt;
 mv *.csv ../ && cd ../;
-rm -rf lander/*;
+rm -rf lander;
 rm -f csv_generator.sh;
 
 echo "Thank you, HackBio 2021!";
