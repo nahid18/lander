@@ -1,11 +1,11 @@
 #!/bin/bash
 
-echo "Installing Dependencies for Team Lander\n";
+echo "Installing Dependencies for Team Lander";
 # sudo apt-get install -y parallel r-base python3.6 g++ gcc ruby;
 
-echo "Cloning Team Lander epository\n";
+echo "Cloning Team Lander epository";
 git clone "https://github.com/nahid18/lander.git" && cd lander;
-echo "Producing CSV for Team Lander\n";
+echo "Producing CSV for Team Lander";
 
 echo "Name,Email,Slack,Biostack,Twitter,Hamming Distance" >> team_lander.txt;
 ls *.C | parallel gcc -o {.}.c-program {};
@@ -22,4 +22,4 @@ rm -f *.cpp-program;
 rm -f *.csv;
 mv team_lander.txt team_lander.csv && rm -f *.txt;
 
-echo "Thank you, HackBio 2021!\n";
+echo "Thank you, HackBio 2021!";
