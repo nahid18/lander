@@ -31,18 +31,8 @@ Detail: https://thehackbio.com/internship
 
 ## Dependencies
 ```
-# install Parallel
-sudo apt-get -y install parallel 
-# install R
-sudo apt-get -y install r-base
-# install Python
-sudo apt-get -y install python3.6
-# install G++
-sudo apt-get -y install g++
-# install GCC
-sudo apt-get -y install gcc
-# install Ruby
-sudo apt-get -y install ruby
+# install dependencies
+sudo apt-get -y install parallel r-base python3.6 g++ gcc ruby julia
 ```
 
 ## 📙 Information Template
